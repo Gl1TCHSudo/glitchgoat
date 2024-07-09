@@ -1,0 +1,27 @@
+{
+  "name": "glitchgoat",
+  "version": "1.0.0",
+  "description": "A custom Discord client supporting both bot and selfbot modes with additional functionality.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "selfbot",
+    "bot",
+    "discord.js"
+  ],
+  "author": "glitch",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "public-ip": "^4.0.4",
+    "os": "^0.1.1",
+    "useragent": "^2.3.0",
+    "discord.js": "^14.3.0",
+    "discord.js-selfbot-v13": "^1.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
+
